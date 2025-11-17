@@ -191,14 +191,50 @@ h1{
     width:100%;
     height:50vh;
 }
-.text dl{
+.text1 dl{
     float:left;
     width:50%;
     height:50vh;
     padding: 0;
     border: 0;
 }
-.staff img{
+.staff1 img{
+    float:right;
+    width:50%;
+    height:50vh;
+}
+.text2 dl{
+    float:left;
+    width:50%;
+    height:50vh;
+    padding: 0;
+    border: 0;
+}
+.staff2 img{
+    float:right;
+    width:50%;
+    height:50vh;
+}
+.text3 dl{
+    float:left;
+    width:50%;
+    height:50vh;
+    padding: 0;
+    border: 0;
+}
+.staff3 img{
+    float:right;
+    width:50%;
+    height:50vh;
+}
+.text4 dl{
+    float:left;
+    width:50%;
+    height:50vh;
+    padding: 0;
+    border: 0;
+}
+.staff4 img{
     float:right;
     width:50%;
     height:50vh;
@@ -287,12 +323,42 @@ nav a:hover{
     dd{
         font-size: 10px;
     }
-    .staff img{
+    .staff1 img{
         display :block;
         width:100%;
         height:25vh;
     }
-    .text dl{
+    .text1 dl{
+        display: block;
+        width:100%;
+        height:25vh;
+    }
+    .staff2 img{
+        display :block;
+        width:100%;
+        height:25vh;
+    }
+    .text2 dl{
+        display: block;
+        width:100%;
+        height:25vh;
+    }
+    .staff3 img{
+        display :block;
+        width:100%;
+        height:25vh;
+    }
+    .text3 dl{
+        display: block;
+        width:100%;
+        height:25vh;
+    }
+    .staff4 img{
+        display :block;
+        width:100%;
+        height:25vh;
+    }
+    .text4 dl{
         display: block;
         width:100%;
         height:25vh;
